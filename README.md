@@ -14,8 +14,8 @@ SENG1120 or Data Structures is a course in the University of Newcastle that focu
 All assignments should be built with the GNU C++ tested on Cygwin. One can build each assignment as follows
 
 ```sh
+make
 make clean
-rm -rf *.o core
  ```
 
 The output should be assignment\<x\>.exe and can be executed as follows
