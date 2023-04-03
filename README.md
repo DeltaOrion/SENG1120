@@ -21,7 +21,7 @@ make clean
 The output should be assignment\<x\>.exe and can be executed as follows
 
 ```sh
-./assignment<x>.exe
+./a<x>.exe
 ```
 
 NOTE - **Additional build instructions might be found in the individual assignments `README.txt` folder**
